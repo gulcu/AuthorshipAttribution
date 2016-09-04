@@ -2,6 +2,7 @@
 Predict authors of Turkish novels using stylometric methods
 
 Project Definition
+
 In this project, we have been working on a corpus consisting of works from Turkish literature.
 Specifically we are trying to predict the author of a given novel from some properties of the text,
 which is known as the authorship attribution problem.
@@ -11,6 +12,7 @@ main body of work. Preface, references, author names, book names, page numbers, 
 information were erased.
 
 Motivation
+
 An instance of an author attribution problem has attracted great attention in 2015 when researchers
 attempted to identify the author of a play called “Double Falsehood”. 54 plays were analyzed: 33 by
 Shakespeare, 9 by Fletcher (a colleague of Shakespeare) and 12 by Theobold (who claimed
@@ -32,6 +34,7 @@ most likely to be. Every measure but one identified Shakespeare as the likely au
 Falsehood”. Theobald, was identified as the best match only regarding the use of content words.
 
 Key Concepts
+
 As examplified above, authorship attribution work tries to come up with measures which matches
 accurately the "style" of a given text to the known style of an author, where style is defined as a set
 of measurable patterns which may be unique to the author. This attribution work is based on the
