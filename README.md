@@ -1,5 +1,5 @@
 # NLP-AuthorshipAttribution
-*Predict authors of Turkish novels using stylometric methods*
+*Predicting authors of Turkish novels using stylometric methods. I am working with Oktay Güngör on this project.*
 
 **Project Definition**
 
